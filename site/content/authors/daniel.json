@@ -1,0 +1,12 @@
+{
+  "name": "Daniel",
+  "title": "Software engineer",
+  "description": "Sic mundus creatus est.",
+  "thumbnail": "18-06_dark_site.jpg",
+  "social": [],
+  "skills": [
+    "Javascript",
+    "React",
+    "Java"
+  ]
+}
